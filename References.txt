@@ -1,2 +1,3 @@
 # All References for Auth
-angular-meteor.com
+
+   * angular-meteor.com
